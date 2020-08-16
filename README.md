@@ -13,5 +13,5 @@ If you find the code useful in your research, please cite our works as follows, 
       &nbsp;&nbsp;&nbsp;&nbsp;publisher=\{Elsevier\}<br/>
 \}<br/>
 
-Email: zhengqinghai@stu.xjtu.edu.cn, qhxjtu@163.com
+Email: zhengqinghai@stu.xjtu.edu.cn
 
