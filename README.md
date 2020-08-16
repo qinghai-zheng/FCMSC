@@ -1,7 +1,7 @@
 # FCMSC
 Source code of "Feature Concatenation Multi-view Subspace Clustering (FCMSC)" pubilished in Neurocomputing 2020
 
-If you find the code useful in your research our works as follows, thanks.
+If you find the code useful in your research, please cite our works as follows, thanks.
 
 @article\{FCMSC,<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;title=\{Feature concatenation multi-view subspace clustering\},<br/>
