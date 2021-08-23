@@ -3,7 +3,7 @@ Source codes of "Feature Concatenation Multi-view Subspace Clustering (FCMSC)" p
 
 <img src="./FCMSC_Framework.png" width="80%">
 
-If you find the codes useful in your research, please cite our works as follows, thanks.
+If you find the codes useful in your research, please cite our work as follows, thanks.
 
 @article\{FCMSC,<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;title=\{Feature concatenation multi-view subspace clustering\},<br/>
